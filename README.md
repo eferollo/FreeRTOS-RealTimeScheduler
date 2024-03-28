@@ -2,6 +2,8 @@
 
 This repository aims to demonstrate the functionality of the **FreeRTOS** kernel, with a specific emphasis on utilizing the Task Management API and Queue Management API while enabling the support for **Real Time Scheduling** by implementing a new library called **RealTimeScheduler**.
 
+The RealTimeScheduler library source code can be found [here](https://github.com/eferollo/FreeRTOS-RealTimeScheduler/blob/main/FreeRTOS/Demo/CORTEX_M3_MPS2_QEMU_GCC)
+
 #### :pushpin: List of Features provided:
 
 - Support for **Static** and **Dynamic** Priority Scheduling 
